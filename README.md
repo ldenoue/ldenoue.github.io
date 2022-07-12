@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my Swift and macOS page
 
-You can use the [editor on GitHub](https://github.com/ldenoue/ldenoue.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+CoreMediaIO Camera Extensions are a great addition to macOS.
+In addition, ScreenCaptureKit allows capturing several windows at 60 FPS without overloading the CPU.
+These 2 technologies are made for Screegle! https://www.appblit.com/screegle
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here I'll post macOS and Swift tips I've learned while developing my side-project Screegle.
 
-### Markdown
+One sample is https://github.com/ldenoue/cameraextension
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ldenoue/ldenoue.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Find me on [Twitter](https://twitter.com/ldenoue) and I’ll help you.
