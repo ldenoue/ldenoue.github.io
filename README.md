@@ -1,4 +1,6 @@
-## Welcome to my Swift and macOS page
+# Swift and macOS tips
+
+## About CoreMediaIO and ScreenCaptureKit
 
 CoreMediaIO Camera Extensions are a great addition to macOS.
 In addition, ScreenCaptureKit allows capturing several windows at 60 FPS without overloading the CPU.
